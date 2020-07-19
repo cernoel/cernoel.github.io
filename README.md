@@ -1,6 +1,6 @@
 cernoel.github.io
 
 ---
-permalink: /index.html
+permalink: /docs/index.html
 ---
 
