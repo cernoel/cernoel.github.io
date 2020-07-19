@@ -1,0 +1,5 @@
+baseURL = "https://cernoel.github.io/"
+languageCode = "en-us"
+title = "cernoel.github.io"
+theme = "hugo-theme-console"
+publishDir = "docs"
