@@ -4,13 +4,28 @@
     
         
         <url>
-            <loc>https://cernoel.github.io/categories/</loc>
+            <loc>https://cernoel.github.io/</loc>
+            <lastmod>2020-07-19T17:29:54+02:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://cernoel.github.io/</loc>
+            <loc>https://cernoel.github.io/posts/my-first-post/</loc>
+            <lastmod>2020-07-19T17:29:54+02:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cernoel.github.io/posts/</loc>
+            <lastmod>2020-07-19T17:29:54+02:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://cernoel.github.io/categories/</loc>
         </url>
         
     
